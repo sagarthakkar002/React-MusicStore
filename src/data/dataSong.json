@@ -1,0 +1,33 @@
+[
+  {
+     "id":0,
+      "name":"Tere Naam",
+      "artist":"Salim",
+      "location":"YashRaj Studio",
+      "album":"Tere Naam",
+      "duration":30,
+      "tag":"Love Song"
+
+  },
+  {
+    "id":1,
+    "name":"Waka Waka",
+    "artist":"Shakira",
+    "location":"Brazil",
+    "album":"Football Anthem",
+    "duration":300,
+    "tag":"Sports Song"
+
+},
+{
+  "id":2,
+  "name":"Ride",
+  "artist":"21 Pilots",
+  "location":"https://",
+  "album":"Blood",
+  "duration":400,
+  "tag":"Motivational Song"
+
+}
+
+]
